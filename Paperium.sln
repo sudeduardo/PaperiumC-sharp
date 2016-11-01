@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Paperium", "WindowsFormsApplication1\Paperium.csproj", "{FBF427A3-6184-4BD2-BF4D-CEE1DC11D8F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|Any CPU = CD_ROM|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		DVD-5|Any CPU = DVD-5|Any CPU
+		Release|Any CPU = Release|Any CPU
+		SingleImage|Any CPU = SingleImage|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBF427A3-6184-4BD2-BF4D-CEE1DC11D8F5}.CD_ROM|Any CPU.ActiveCfg = Release|Any CPU
+		{FBF427A3-6184-4BD2-BF4D-CEE1DC11D8F5}.CD_ROM|Any CPU.Build.0 = Release|Any CPU
+		{FBF427A3-6184-4BD2-BF4D-CEE1DC11D8F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBF427A3-6184-4BD2-BF4D-CEE1DC11D8F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBF427A3-6184-4BD2-BF4D-CEE1DC11D8F5}.DVD-5|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBF427A3-6184-4BD2-BF4D-CEE1DC11D8F5}.DVD-5|Any CPU.Build.0 = Debug|Any CPU
+		{FBF427A3-6184-4BD2-BF4D-CEE1DC11D8F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBF427A3-6184-4BD2-BF4D-CEE1DC11D8F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBF427A3-6184-4BD2-BF4D-CEE1DC11D8F5}.SingleImage|Any CPU.ActiveCfg = Release|Any CPU
+		{FBF427A3-6184-4BD2-BF4D-CEE1DC11D8F5}.SingleImage|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
